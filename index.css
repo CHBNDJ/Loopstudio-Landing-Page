@@ -307,7 +307,7 @@ footer {
 .footer-content {
     display: flex;
     flex-direction: column;
-    padding: 8em;
+    padding: 13em;
     gap: 24px;
 }
 
